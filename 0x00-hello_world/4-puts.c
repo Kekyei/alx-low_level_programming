@@ -1,6 +1,7 @@
-#include<stdio.h>
+# include <stdio.h>
+
 /**
- * main - Entry point
+ * main - Print in C
  *
  * Return: Always 0 (Success)
  */
